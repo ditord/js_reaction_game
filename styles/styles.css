@@ -1,5 +1,5 @@
 body {
-            font-family: "Arian AMU", "Arial", sans-serif;
+            font-family: sans-serif;
         }
 
         #container {
@@ -13,7 +13,7 @@ body {
             margin: 0 auto;
             padding-top: 100px;
             width: 700px;
-            height: 500px;
+            height: 400px;
         }
 
         #myBox {
@@ -27,6 +27,20 @@ body {
             border-radius: 50px;
             cursor: url('../images/murch.gif'), auto;
         }
+        
+        #medals {
+            width: 700px;
+            height: 20px;
+            margin: 5px auto;
+            padding: 10px 0;
+            font-size: 18px;
+            font-weight: bold;
+            background: #ccbbaa;
+
+            text-align: center;
+            vertical-align: center;
+        }
+
 
         .bold {
             font-weight: bold;
